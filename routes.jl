@@ -30,6 +30,7 @@ end
 
 
 count = count_openings("arunpathivada2002@gmail.com")
+print("count",count)
 
 
 
